@@ -6,7 +6,7 @@
     "title": "hhkaos Community",
     "description": "Talks, workshops and meetups organised by hhkaos.",
     "url": "https://www.rauljimenez.info/",
-    "license": "CC-BY-4.0"
+    "license": "CC0-1.0"
   },
 
   "_comment_profile": "Which fields the central editor shows. Presets: 'meetup' (no CFP/sponsor fields) | 'conference' | 'all'. Used from phase 2 onwards; harmless until then.",
